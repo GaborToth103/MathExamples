@@ -23,8 +23,6 @@ def log_results(func):
 
     return wrapper
 
-
-
 @log_results
 def feladat_1(times: int, base: int):
     """ (1.2) Checks the difference between powers and multiplication in Python. We measure the time between them.
