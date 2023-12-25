@@ -1,3 +1,4 @@
+setuptools
 mpmath
 numpy
 manim
